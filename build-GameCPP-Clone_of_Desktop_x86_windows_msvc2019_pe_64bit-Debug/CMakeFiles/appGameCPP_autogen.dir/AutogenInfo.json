@@ -1034,15 +1034,39 @@
 			null
 		],
 		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/knight.h",
+			"MU",
+			"EBIVTKYY2X/moc_knight.cpp",
+			null
+		],
+		[
 			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/skeleton.h",
 			"MU",
 			"EBIVTKYY2X/moc_skeleton.cpp",
 			null
 		],
 		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/axe.h",
+			"MU",
+			"FDQDGCZUG7/moc_axe.cpp",
+			null
+		],
+		[
 			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/itemfactory.h",
 			"MU",
 			"FDQDGCZUG7/moc_itemfactory.cpp",
+			null
+		],
+		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/platehelmet.h",
+			"MU",
+			"FDQDGCZUG7/moc_platehelmet.cpp",
+			null
+		],
+		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/sword.h",
+			"MU",
+			"FDQDGCZUG7/moc_sword.cpp",
 			null
 		],
 		[
@@ -1172,12 +1196,32 @@
 			null
 		],
 		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/knight.cpp",
+			"MU",
+			null
+		],
+		[
 			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/skeleton.cpp",
 			"MU",
 			null
 		],
 		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/axe.cpp",
+			"MU",
+			null
+		],
+		[
 			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/itemfactory.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/platehelmet.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/sword.cpp",
 			"MU",
 			null
 		],
