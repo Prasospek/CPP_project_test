@@ -1,3 +1,3 @@
 #include "enemySkeleton.h"
 
-EnemySkeleton::EnemySkeleton() {}
+EnemySkeleton::EnemySkeleton() : Enemy(20, 10) {}
