@@ -1,11 +1,21 @@
 appGameCPP_autogen/timestamp: \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/CMakeLists.txt \
-  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/dragon.cpp \
-  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/dragon.h \
-  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyfactory.cpp \
-  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyfactory.h \
-  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/skeleton.cpp \
-  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/skeleton.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemy.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemy.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyDragon.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyDragon.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyKnight.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyKnight.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemySkeleton.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemySkeleton.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/axe.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/axe.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/item.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/item.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/platehelmet.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/platehelmet.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/sword.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/sword.h \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/config.cpp \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/config.h \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/game.cpp \
@@ -28,6 +38,7 @@ appGameCPP_autogen/timestamp: \
   D:/qt/6.4.3/msvc2019_64/include/QtCore/QJsonArray \
   D:/qt/6.4.3/msvc2019_64/include/QtCore/QJsonDocument \
   D:/qt/6.4.3/msvc2019_64/include/QtCore/QJsonObject \
+  D:/qt/6.4.3/msvc2019_64/include/QtCore/QMetaType \
   D:/qt/6.4.3/msvc2019_64/include/QtCore/QObject \
   D:/qt/6.4.3/msvc2019_64/include/QtCore/QString \
   D:/qt/6.4.3/msvc2019_64/include/QtCore/QTextStream \

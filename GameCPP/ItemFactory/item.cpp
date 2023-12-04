@@ -1,3 +1,3 @@
-#include "itemfactory.h"
+#include "item.h"
 
 ItemFactory::ItemFactory() {}

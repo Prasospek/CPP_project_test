@@ -1022,27 +1022,27 @@
 	"HEADERS" : 
 	[
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/dragon.h",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemy.h",
 			"MU",
-			"EBIVTKYY2X/moc_dragon.cpp",
+			"EBIVTKYY2X/moc_enemy.cpp",
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyfactory.h",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyDragon.h",
 			"MU",
-			"EBIVTKYY2X/moc_enemyfactory.cpp",
+			"EBIVTKYY2X/moc_enemyDragon.cpp",
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/knight.h",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyKnight.h",
 			"MU",
-			"EBIVTKYY2X/moc_knight.cpp",
+			"EBIVTKYY2X/moc_enemyKnight.cpp",
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/skeleton.h",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemySkeleton.h",
 			"MU",
-			"EBIVTKYY2X/moc_skeleton.cpp",
+			"EBIVTKYY2X/moc_enemySkeleton.cpp",
 			null
 		],
 		[
@@ -1052,9 +1052,9 @@
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/itemfactory.h",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/item.h",
 			"MU",
-			"FDQDGCZUG7/moc_itemfactory.cpp",
+			"FDQDGCZUG7/moc_item.cpp",
 			null
 		],
 		[
@@ -1186,22 +1186,22 @@
 	"SOURCES" : 
 	[
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/dragon.cpp",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemy.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyfactory.cpp",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyDragon.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/knight.cpp",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyKnight.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/skeleton.cpp",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemySkeleton.cpp",
 			"MU",
 			null
 		],
@@ -1211,7 +1211,7 @@
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/itemfactory.cpp",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/item.cpp",
 			"MU",
 			null
 		],

@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-3c1984b0f36167e4b72f.json",
+					"jsonFile" : "directory-.-Debug-b1e191cb1e415ac7f971.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -83,7 +83,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "appGameCPP::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-appGameCPP-Debug-f2ad4f32b511da5fa890.json",
+					"jsonFile" : "target-appGameCPP-Debug-dc6ca91717b415e90381.json",
 					"name" : "appGameCPP",
 					"projectIndex" : 0
 				},

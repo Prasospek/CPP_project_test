@@ -104,7 +104,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 62,
+				"line" : 65,
 				"parent" : 0
 			},
 			{
@@ -116,7 +116,7 @@
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 57,
+				"line" : 60,
 				"parent" : 0
 			},
 			{
@@ -857,12 +857,14 @@
 				28,
 				30,
 				32,
-				33,
-				35,
+				34,
+				36,
 				37,
 				39,
 				41,
-				42
+				43,
+				45,
+				46
 			]
 		},
 		{
@@ -1046,6 +1048,10 @@
 	"dependencies" : 
 	[
 		{
+			"backtrace" : 0,
+			"id" : "appGameCPP_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
 			"backtrace" : 70,
 			"id" : "appGameCPP_tooling::@6890427a1f51a3e7e1df"
 		},
@@ -1055,10 +1061,6 @@
 		},
 		{
 			"id" : "appGameCPP_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 0,
-			"id" : "appGameCPP_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appGameCPP::@6890427a1f51a3e7e1df",
@@ -1221,12 +1223,14 @@
 				28,
 				30,
 				32,
-				33,
-				35,
+				34,
+				36,
 				37,
 				39,
 				41,
-				42
+				43,
+				45,
+				46
 			]
 		},
 		{
@@ -1234,19 +1238,19 @@
 			"sourceIndexes" : 
 			[
 				2,
-				31,
-				34,
-				36,
+				35,
 				38,
 				40,
-				43,
-				56,
-				57,
-				58,
-				59,
+				42,
+				44,
+				47,
 				60,
 				61,
-				62
+				62,
+				63,
+				64,
+				65,
+				66
 			]
 		},
 		{
@@ -1265,17 +1269,15 @@
 				23,
 				25,
 				27,
-				29
+				29,
+				31,
+				33
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				44,
-				45,
-				46,
-				47,
 				48,
 				49,
 				50,
@@ -1283,7 +1285,11 @@
 				52,
 				53,
 				54,
-				55
+				55,
+				56,
+				57,
+				58,
+				59
 			]
 		}
 	],
@@ -1390,57 +1396,46 @@
 		},
 		{
 			"backtrace" : 89,
-			"path" : "EnemyFactory/enemyfactory.h",
+			"path" : "EnemyFactory/enemySkeleton.h",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 89,
 			"compileGroupIndex" : 0,
-			"path" : "EnemyFactory/enemyfactory.cpp",
+			"path" : "EnemyFactory/enemySkeleton.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 89,
-			"path" : "EnemyFactory/skeleton.h",
+			"path" : "EnemyFactory/enemyDragon.h",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 89,
 			"compileGroupIndex" : 0,
-			"path" : "EnemyFactory/skeleton.cpp",
+			"path" : "EnemyFactory/enemyDragon.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 89,
-			"path" : "EnemyFactory/dragon.h",
+			"path" : "ItemFactory/item.h",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 89,
 			"compileGroupIndex" : 0,
-			"path" : "EnemyFactory/dragon.cpp",
+			"path" : "ItemFactory/item.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 89,
-			"path" : "ItemFactory/itemfactory.h",
+			"path" : "EnemyFactory/enemyKnight.h",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 89,
 			"compileGroupIndex" : 0,
-			"path" : "ItemFactory/itemfactory.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 89,
-			"path" : "EnemyFactory/knight.h",
-			"sourceGroupIndex" : 2
-		},
-		{
-			"backtrace" : 89,
-			"compileGroupIndex" : 0,
-			"path" : "EnemyFactory/knight.cpp",
+			"path" : "EnemyFactory/enemyKnight.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1463,6 +1458,39 @@
 			"backtrace" : 89,
 			"compileGroupIndex" : 0,
 			"path" : "ItemFactory/axe.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 89,
+			"path" : "ItemFactory/platehelmet.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 89,
+			"compileGroupIndex" : 0,
+			"path" : "ItemFactory/platehelmet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 89,
+			"path" : "EnemyFactory/enemy.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 89,
+			"compileGroupIndex" : 0,
+			"path" : "EnemyFactory/enemy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 89,
+			"path" : "tilecontent.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 89,
+			"compileGroupIndex" : 0,
+			"path" : "tilecontent.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{

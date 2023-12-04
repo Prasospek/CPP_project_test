@@ -1,0 +1,24 @@
+{
+    "classes": [
+        {
+            "className": "Enemy",
+            "object": true,
+            "qualifiedClassName": "Enemy",
+            "slots": [
+                {
+                    "access": "public",
+                    "name": "process",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Tile"
+                }
+            ]
+        }
+    ],
+    "inputFile": "enemy.h",
+    "outputRevision": 68
+}
