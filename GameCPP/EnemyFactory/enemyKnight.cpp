@@ -1,3 +1,3 @@
 #include "enemyKnight.h"
 
-Knight::Knight() {}
+EnemyKnight::EnemyKnight() {}

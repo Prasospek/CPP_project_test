@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "EnemyKnight",
+            "object": true,
+            "qualifiedClassName": "EnemyKnight",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Enemy"
+                }
+            ]
+        }
+    ],
+    "inputFile": "enemyKnight.h",
+    "outputRevision": 68
+}

@@ -1,3 +1,3 @@
 #include "enemyDragon.h"
 
-Dragon::Dragon() {}
+EnemyDragon::EnemyDragon() {}

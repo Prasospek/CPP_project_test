@@ -1,10 +1,13 @@
 #ifndef ENEMYSKELETON_H
 #define ENEMYSKELETON_H
 
-class Skeleton
+#include "enemy.h"
+
+class EnemySkeleton : public Enemy
 {
+    Q_OBJECT
 public:
-    Skeleton();
+    EnemySkeleton();
 };
 
 #endif // ENEMYSKELETON_H

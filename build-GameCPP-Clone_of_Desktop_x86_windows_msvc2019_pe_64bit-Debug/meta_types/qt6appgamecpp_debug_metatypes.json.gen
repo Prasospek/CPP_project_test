@@ -26,6 +26,57 @@
     {
         "classes": [
             {
+                "className": "EnemyDragon",
+                "object": true,
+                "qualifiedClassName": "EnemyDragon",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "Enemy"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "enemyDragon.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "EnemyKnight",
+                "object": true,
+                "qualifiedClassName": "EnemyKnight",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "Enemy"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "enemyKnight.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "EnemySkeleton",
+                "object": true,
+                "qualifiedClassName": "EnemySkeleton",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "Enemy"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "enemySkeleton.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
                 "className": "Config",
                 "object": true,
                 "qualifiedClassName": "Config",

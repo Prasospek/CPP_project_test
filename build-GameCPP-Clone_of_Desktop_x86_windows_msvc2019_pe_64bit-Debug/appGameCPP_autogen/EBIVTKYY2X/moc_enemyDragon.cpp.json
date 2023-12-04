@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "EnemyDragon",
+            "object": true,
+            "qualifiedClassName": "EnemyDragon",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Enemy"
+                }
+            ]
+        }
+    ],
+    "inputFile": "enemyDragon.h",
+    "outputRevision": 68
+}

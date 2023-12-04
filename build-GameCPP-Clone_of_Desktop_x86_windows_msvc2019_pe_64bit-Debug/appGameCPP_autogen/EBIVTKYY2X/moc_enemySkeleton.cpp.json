@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "EnemySkeleton",
+            "object": true,
+            "qualifiedClassName": "EnemySkeleton",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Enemy"
+                }
+            ]
+        }
+    ],
+    "inputFile": "enemySkeleton.h",
+    "outputRevision": 68
+}

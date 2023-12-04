@@ -1,10 +1,13 @@
 #ifndef ENEMYKNIGHT_H
 #define ENEMYKNIGHT_H
 
-class Knight
+#include "enemy.h"
+
+class EnemyKnight : public Enemy
 {
+    Q_OBJECT
 public:
-    Knight();
+    EnemyKnight();
 };
 
 #endif // ENEMYKNIGHT_H
