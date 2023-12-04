@@ -1,0 +1,71 @@
+{
+    "classes": [
+        {
+            "className": "Player",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newX",
+                            "type": "int"
+                        },
+                        {
+                            "name": "newY",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "setPosition",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "x",
+                    "notify": "playerMoved",
+                    "read": "getX",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "y",
+                    "notify": "playerMoved",
+                    "read": "getY",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Player",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "playerMoved",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "player.h",
+    "outputRevision": 68
+}

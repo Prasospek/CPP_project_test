@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "Config",
+            "object": true,
+            "qualifiedClassName": "Config",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "config.h",
+    "outputRevision": 68
+}

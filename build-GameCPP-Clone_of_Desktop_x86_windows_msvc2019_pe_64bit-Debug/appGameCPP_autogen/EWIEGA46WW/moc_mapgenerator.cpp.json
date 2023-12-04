@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "MapGenerator",
+            "object": true,
+            "qualifiedClassName": "MapGenerator",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "mapgenerator.h",
+    "outputRevision": 68
+}

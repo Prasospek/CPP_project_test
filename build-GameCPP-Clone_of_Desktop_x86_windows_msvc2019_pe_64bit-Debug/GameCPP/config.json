@@ -1,0 +1,13 @@
+{
+  "walls": ["#", "H"],
+  "enemies": {
+    "e": {
+      "damage": 5,
+      "health": 20
+    },
+    "E": {
+      "damage": 8,
+      "health": 25
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"D:/qt/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 670,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 611,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2186,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2189,
+				"parent" : 3
+			}
+		]
+	},
+	"id" : "appGameCPP_tooling::@6890427a1f51a3e7e1df",
+	"name" : "appGameCPP_tooling",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				7
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				6,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/Main.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/Map.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/Tile.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/Player.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/config.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/GameMenu.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/player.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/mapFile.txt",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/rocks.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/path.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/grass.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/water.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/sand.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/Main.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/Map.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/Tile.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/Player.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/config.json.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/GameMenu.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/player.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/mapFile.txt.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/rocks.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/path.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/grass.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/water.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug/GameCPP/images/background/sand.png.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

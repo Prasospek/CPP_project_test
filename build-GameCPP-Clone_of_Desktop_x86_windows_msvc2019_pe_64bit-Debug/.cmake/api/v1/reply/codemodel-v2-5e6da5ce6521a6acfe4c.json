@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7cb420aaf3811c87313b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GameCPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-2b07fbfd70953ffd16b8.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-22f5abcc45d8dd1f001c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-4b59ffd368f38e3d5aef.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP-Debug-261cf08dfed43b2c9814.json",
+					"name" : "appGameCPP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP_autogen-Debug-f1b918c2354b17022877.json",
+					"name" : "appGameCPP_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP_autogen_timestamp_deps-Debug-7c7ca5c0f7194b6c577f.json",
+					"name" : "appGameCPP_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP_other_files-Debug-2dd4cfe8d10d3a5bc848.json",
+					"name" : "appGameCPP_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP_qmlimportscan-Debug-55202849eae63f861c88.json",
+					"name" : "appGameCPP_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP_qmllint-Debug-1fb5b0478d627797586c.json",
+					"name" : "appGameCPP_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP_qmllint_json-Debug-69744d3bcb2468e5f837.json",
+					"name" : "appGameCPP_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP_qmltyperegistration-Debug-8ab54bc513dcdd8fb869.json",
+					"name" : "appGameCPP_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGameCPP_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGameCPP_tooling-Debug-e08551696317d9cb1aa9.json",
+					"name" : "appGameCPP_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/build-GameCPP-Clone_of_Desktop_x86_windows_msvc2019_pe_64bit-Debug",
+		"source" : "D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

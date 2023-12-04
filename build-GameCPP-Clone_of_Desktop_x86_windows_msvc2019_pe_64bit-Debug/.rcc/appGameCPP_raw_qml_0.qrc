@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/GameCPP/">
+    <file alias="Main.qml">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/Main.qml</file>
+    <file alias="Map.qml">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/Map.qml</file>
+    <file alias="Tile.qml">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/Tile.qml</file>
+    <file alias="Player.qml">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/Player.qml</file>
+    <file alias="config.json">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/config.json</file>
+    <file alias="GameMenu.qml">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/GameMenu.qml</file>
+    <file alias="images/player.png">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/images/player.png</file>
+    <file alias="mapFile.txt">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/mapFile.txt</file>
+    <file alias="images/background/rocks.png">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/images/background/rocks.png</file>
+    <file alias="images/background/path.png">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/images/background/path.png</file>
+    <file alias="images/background/grass.png">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/images/background/grass.png</file>
+    <file alias="images/background/water.png">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/images/background/water.png</file>
+    <file alias="images/background/sand.png">D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/images/background/sand.png</file>
+  </qresource>
+</RCC>
+

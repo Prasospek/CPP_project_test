@@ -1,0 +1,222 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Config",
+                "object": true,
+                "qualifiedClassName": "Config",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "config.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Game",
+                "object": true,
+                "qualifiedClassName": "Game",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "game.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Map",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "tiles",
+                        "notify": "displayedTilesChanged",
+                        "read": "getDisplayedTiles",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QVariant",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "Map",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "displayedTilesChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "map.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "MapGenerator",
+                "object": true,
+                "qualifiedClassName": "MapGenerator",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "mapgenerator.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Player",
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newX",
+                                "type": "int"
+                            },
+                            {
+                                "name": "newY",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "setPosition",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "x",
+                        "notify": "playerMoved",
+                        "read": "getX",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "y",
+                        "notify": "playerMoved",
+                        "read": "getY",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "Player",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "playerMoved",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "player.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Tile",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "symbol",
+                        "read": "getSymbol",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "isWall",
+                        "read": "getIsWall",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "name": "texture",
+                        "read": "getTexturePath",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "Tile",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "tile.h",
+        "outputRevision": 68
+    }
+]

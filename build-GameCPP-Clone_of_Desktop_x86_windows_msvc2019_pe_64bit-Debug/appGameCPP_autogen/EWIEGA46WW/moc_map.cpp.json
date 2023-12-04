@@ -1,0 +1,40 @@
+{
+    "classes": [
+        {
+            "className": "Map",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "tiles",
+                    "notify": "displayedTilesChanged",
+                    "read": "getDisplayedTiles",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QVariant",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Map",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "displayedTilesChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "map.h",
+    "outputRevision": 68
+}

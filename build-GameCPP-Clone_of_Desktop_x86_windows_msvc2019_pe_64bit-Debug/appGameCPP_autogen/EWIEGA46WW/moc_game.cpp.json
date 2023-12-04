@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "Game",
+            "object": true,
+            "qualifiedClassName": "Game",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "game.h",
+    "outputRevision": 68
+}
