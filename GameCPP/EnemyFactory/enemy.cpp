@@ -10,3 +10,9 @@ void Enemy::process() {
     qDebug() << "Enemy is starting a fight!";
     // Add your specific implementation here
 }
+
+
+Enemy::~Enemy()
+{
+    // zzz
+}

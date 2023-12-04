@@ -13,6 +13,7 @@ public:
 
 protected:
     Enemy(){};
+    virtual ~Enemy();
 
 public slots:
     virtual void process(); //starts fight override

@@ -3,6 +3,7 @@
 #include "EBIVTKYY2X/moc_enemyDragon.cpp"
 #include "EBIVTKYY2X/moc_enemyKnight.cpp"
 #include "EBIVTKYY2X/moc_enemySkeleton.cpp"
+#include "FDQDGCZUG7/moc_item.cpp"
 #include "EWIEGA46WW/moc_config.cpp"
 #include "EWIEGA46WW/moc_game.cpp"
 #include "EWIEGA46WW/moc_map.cpp"

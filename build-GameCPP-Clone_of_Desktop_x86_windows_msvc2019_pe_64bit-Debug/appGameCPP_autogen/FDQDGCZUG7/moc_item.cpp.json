@@ -1,0 +1,24 @@
+{
+    "classes": [
+        {
+            "className": "Item",
+            "object": true,
+            "qualifiedClassName": "Item",
+            "slots": [
+                {
+                    "access": "public",
+                    "name": "process",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Tile"
+                }
+            ]
+        }
+    ],
+    "inputFile": "item.h",
+    "outputRevision": 68
+}
