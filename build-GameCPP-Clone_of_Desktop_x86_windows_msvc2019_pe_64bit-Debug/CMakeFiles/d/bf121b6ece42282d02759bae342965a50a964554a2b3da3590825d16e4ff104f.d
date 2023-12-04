@@ -8,8 +8,10 @@ appGameCPP_autogen/timestamp: \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemyKnight.h \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemySkeleton.cpp \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/EnemyFactory/enemySkeleton.h \
-  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/axe.cpp \
-  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/axe.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/damagepotion.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/damagepotion.h \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/healthpotion.cpp \
+  D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/healthpotion.h \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/item.cpp \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/item.h \
   D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/platehelmet.cpp \

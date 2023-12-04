@@ -297,6 +297,40 @@
     {
         "classes": [
             {
+                "className": "DamagePotion",
+                "object": true,
+                "qualifiedClassName": "DamagePotion",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "Item"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "damagepotion.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "HealthPotion",
+                "object": true,
+                "qualifiedClassName": "HealthPotion",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "Item"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "healthpotion.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
                 "className": "Item",
                 "object": true,
                 "qualifiedClassName": "Item",
@@ -316,6 +350,40 @@
             }
         ],
         "inputFile": "item.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "PlateHelmet",
+                "object": true,
+                "qualifiedClassName": "PlateHelmet",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "Item"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "platehelmet.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Sword",
+                "object": true,
+                "qualifiedClassName": "Sword",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "Item"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "sword.h",
         "outputRevision": 68
     }
 ]

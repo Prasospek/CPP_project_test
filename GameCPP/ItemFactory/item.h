@@ -5,14 +5,27 @@
 #include <QMetaType>
 #include "tile.h"
 
+enum ItemType {
+    healthPotion,
+    damagePotion,
+    sword,
+    helmet
+};
+
 class Item : public Tile
 {
     Q_OBJECT
+
+private:
+    int m_health;
+    int m_damage;
+
+//factory
 public:
-    static Item* getItem();
+    static Item* getItem(ItemType type);
 
 protected:
-    Item(){};
+    Item(int health, int damage);
     virtual ~Item();
 
 public slots:

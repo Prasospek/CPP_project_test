@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "Sword",
+            "object": true,
+            "qualifiedClassName": "Sword",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Item"
+                }
+            ]
+        }
+    ],
+    "inputFile": "sword.h",
+    "outputRevision": 68
+}

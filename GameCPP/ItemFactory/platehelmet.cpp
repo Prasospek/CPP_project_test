@@ -1,3 +1,3 @@
 #include "platehelmet.h"
 
-PlateHelmet::PlateHelmet() {}
+PlateHelmet::PlateHelmet() : Item(30, 0) {}

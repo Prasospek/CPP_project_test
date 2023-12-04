@@ -1046,9 +1046,15 @@
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/axe.h",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/damagepotion.h",
 			"MU",
-			"FDQDGCZUG7/moc_axe.cpp",
+			"FDQDGCZUG7/moc_damagepotion.cpp",
+			null
+		],
+		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/healthpotion.h",
+			"MU",
+			"FDQDGCZUG7/moc_healthpotion.cpp",
 			null
 		],
 		[
@@ -1206,7 +1212,12 @@
 			null
 		],
 		[
-			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/axe.cpp",
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/damagepotion.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/mendelu-pcp_zs2023_xsuster-7322e1ae56dc/ProjektCPP/GameCPP/ItemFactory/healthpotion.cpp",
 			"MU",
 			null
 		],

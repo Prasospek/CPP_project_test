@@ -1,8 +1,10 @@
 #ifndef PLATEHELMET_H
 #define PLATEHELMET_H
+#include "item.h"
 
-class PlateHelmet
+class PlateHelmet : public Item
 {
+    Q_OBJECT
 public:
     PlateHelmet();
 };

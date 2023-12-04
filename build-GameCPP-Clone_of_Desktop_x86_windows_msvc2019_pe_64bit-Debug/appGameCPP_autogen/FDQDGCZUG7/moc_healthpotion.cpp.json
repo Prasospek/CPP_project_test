@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "HealthPotion",
+            "object": true,
+            "qualifiedClassName": "HealthPotion",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Item"
+                }
+            ]
+        }
+    ],
+    "inputFile": "healthpotion.h",
+    "outputRevision": 68
+}

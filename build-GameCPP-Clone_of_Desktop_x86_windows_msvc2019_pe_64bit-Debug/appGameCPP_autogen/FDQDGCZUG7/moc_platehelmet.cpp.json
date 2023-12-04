@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "PlateHelmet",
+            "object": true,
+            "qualifiedClassName": "PlateHelmet",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Item"
+                }
+            ]
+        }
+    ],
+    "inputFile": "platehelmet.h",
+    "outputRevision": 68
+}

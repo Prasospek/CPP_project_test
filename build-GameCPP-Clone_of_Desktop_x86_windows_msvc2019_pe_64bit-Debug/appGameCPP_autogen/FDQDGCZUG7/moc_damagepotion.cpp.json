@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "DamagePotion",
+            "object": true,
+            "qualifiedClassName": "DamagePotion",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "Item"
+                }
+            ]
+        }
+    ],
+    "inputFile": "damagepotion.h",
+    "outputRevision": 68
+}

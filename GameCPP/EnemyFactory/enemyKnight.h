@@ -8,6 +8,7 @@ class EnemyKnight : public Enemy
     Q_OBJECT
 public:
     EnemyKnight();
+
 };
 
 #endif // ENEMYKNIGHT_H

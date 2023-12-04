@@ -40,10 +40,12 @@ qt_add_qml_module(appGameCPP
     SOURCES ItemFactory/item.h ItemFactory/item.cpp
     SOURCES EnemyFactory/enemyKnight.h EnemyFactory/enemyKnight.cpp
     SOURCES ItemFactory/sword.h ItemFactory/sword.cpp
-    SOURCES ItemFactory/axe.h ItemFactory/axe.cpp
+    SOURCES
     SOURCES ItemFactory/platehelmet.h ItemFactory/platehelmet.cpp
     SOURCES EnemyFactory/enemy.h EnemyFactory/enemy.cpp
     SOURCES
+    SOURCES ItemFactory/damagepotion.h ItemFactory/damagepotion.cpp
+    SOURCES ItemFactory/healthpotion.h ItemFactory/healthpotion.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

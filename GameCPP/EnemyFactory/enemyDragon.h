@@ -7,7 +7,7 @@ class EnemyDragon : public Enemy
 {
        Q_OBJECT
 public:
-       EnemyDragon(int health, int damage);
+       EnemyDragon();
 };
 
 #endif // ENEMYDRAGON_H

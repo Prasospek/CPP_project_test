@@ -104,7 +104,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 65,
+				"line" : 67,
 				"parent" : 0
 			},
 			{
@@ -116,7 +116,7 @@
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 60,
+				"line" : 62,
 				"parent" : 0
 			},
 			{
@@ -859,12 +859,13 @@
 				32,
 				34,
 				36,
-				37,
+				38,
 				39,
 				41,
 				43,
 				45,
-				46
+				47,
+				48
 			]
 		},
 		{
@@ -1048,10 +1049,6 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "appGameCPP_autogen::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 70,
 			"id" : "appGameCPP_tooling::@6890427a1f51a3e7e1df"
 		},
@@ -1061,6 +1058,10 @@
 		},
 		{
 			"id" : "appGameCPP_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appGameCPP_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appGameCPP::@6890427a1f51a3e7e1df",
@@ -1225,12 +1226,13 @@
 				32,
 				34,
 				36,
-				37,
+				38,
 				39,
 				41,
 				43,
 				45,
-				46
+				47,
+				48
 			]
 		},
 		{
@@ -1238,19 +1240,19 @@
 			"sourceIndexes" : 
 			[
 				2,
-				35,
-				38,
+				37,
 				40,
 				42,
 				44,
-				47,
-				60,
-				61,
+				46,
+				49,
 				62,
 				63,
 				64,
 				65,
-				66
+				66,
+				67,
+				68
 			]
 		},
 		{
@@ -1271,15 +1273,14 @@
 				27,
 				29,
 				31,
-				33
+				33,
+				35
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				48,
-				49,
 				50,
 				51,
 				52,
@@ -1289,7 +1290,9 @@
 				56,
 				57,
 				58,
-				59
+				59,
+				60,
+				61
 			]
 		}
 	],
@@ -1484,13 +1487,24 @@
 		},
 		{
 			"backtrace" : 89,
-			"path" : "tilecontent.h",
+			"path" : "ItemFactory/damagepotion.h",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 89,
 			"compileGroupIndex" : 0,
-			"path" : "tilecontent.cpp",
+			"path" : "ItemFactory/damagepotion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 89,
+			"path" : "ItemFactory/healthpotion.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 89,
+			"compileGroupIndex" : 0,
+			"path" : "ItemFactory/healthpotion.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{

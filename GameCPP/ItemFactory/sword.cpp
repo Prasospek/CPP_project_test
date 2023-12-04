@@ -1,3 +1,3 @@
 #include "sword.h"
 
-Sword::Sword() {}
+Sword::Sword() : Item(0, 20) {}
